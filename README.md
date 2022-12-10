@@ -2,4 +2,4 @@ productivity conoisseur and keyboard afficiando
 
 @ northwesternu 
 
-check out my [dotfiles](https://github.com/randyttruong/dotfiles-)
+check out my [dotfiles](https://github.com/randyttruong/dotfiles-) (I work very hard on them)
