@@ -1,5 +1,5 @@
-productivity conoisseur and keyboard afficiando 
+productivity conoisseur and keyboard nerd 
 
-@ northwesternu 
+@ northwestern u 
 
 check out my [dotfiles!](https://github.com/randyttruong/dotfiles-) (I work very hard on them)
