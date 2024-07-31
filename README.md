@@ -1,5 +1,4 @@
 ---
-# Hey there!
 <div align = center>
   <p><samp>hi, i'm <b>randy truong</b></samp></p>
   <br> 
