@@ -6,7 +6,8 @@ I'm a Computer Science student @ Northwestern University 😼, currently complet
   <li>I am interested in high-performance code, low-level development, and web development</li>
   <li>my research interests are in cloud platform security, computational privacy, and formal program specification </li>
 </ul>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/randyrocher?theme=dark&font=Advent%20Pro)
 ---
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 
 
