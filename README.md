@@ -12,7 +12,8 @@ I'm a Computer Science student @ Northwestern University 😼, currently complet
   <li>My research interests are in cloud platform security, computational privacy, and formal program specification </li>
 </ul>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/randyrocher?theme=dark&font=Advent%20Pro)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/randyrocher?theme=dark&font=Advent%20Pro)
+
 ---
 
 
