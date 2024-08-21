@@ -5,7 +5,7 @@
 
 
 <div> Hey, I'm Randy! :wave: </div>  
-<br></br> 
+<p></p>
 
 <ul>
   <li>I'm a fourth year Computer Science student @ Northwestern University 😼</li>
