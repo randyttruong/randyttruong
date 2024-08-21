@@ -4,7 +4,7 @@
 </div>
 
 
-# <div align = center> hey, i'm Randy :wave: </div>  
+<div align = center> hey, i'm Randy :wave: </div>  
 I'm a Computer Science student @ Northwestern University 😼, currently completing my B.A at the Weinberg School of Arts and Sciences
 <ul> 
   <li>I've been a SWE intern at Uline, and I have previously worked as a researcher for Northwestern University 😼 and Penn State University 🔵 </li>
