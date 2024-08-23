@@ -17,6 +17,7 @@ check out my <a href="https://randyttruong.github.io">website!</a>
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/randyrocher?theme=dark&font=Advent%20Pro)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=randyttruong)](https://git.io/streak-stats)
 ---
 
 
