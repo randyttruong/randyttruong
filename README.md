@@ -10,7 +10,7 @@
 <ul>
   <li>I'm a fourth year Computer Science student @ Northwestern University 😼</li>
   <li>I've been a SWE intern at Uline, and I have previously worked as a researcher for Northwestern University 😼 and Penn State University 🔵 </li>
-  <li>I am interested in web development 💻, high-performance computing 📈, and systems programming 🤖 </li>
+  <li>I am a recovering web developer interested in security tools 💻, high-performance computing 📈, and systems programming 🤖 </li>
 </ul>
 
 check out my <a href="https://randyttruong.github.io">website!</a>
