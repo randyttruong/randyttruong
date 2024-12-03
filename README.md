@@ -8,8 +8,8 @@
 <p></p>
 
 <ul>
-  <li>I'm a fourth year Computer Science student @ Northwestern University, pursuing my Bachelor's and my Master's 😼</li>
-  <li>I've been a SWE intern at Uline, and I have previously worked as a researcher for Northwestern University 😼 and Penn State University 🔵 </li>
+<!--   <li>I'm a fourth year Computer Science student @ Northwestern University, pursuing my Bachelor's and my Master's 😼</li>
+  <li>I've been a SWE intern at Uline, and I have previously worked as a researcher for Northwestern University 😼 and Penn State University 🔵 </li> -->
   <li>I'm interested in security tool development 💻, high-performance computing 📈, and systems programming 🤖 </li>
   <li>My primary languages are C++, Python, Java, JavaScript/TypeScript, and Go </li>
 </ul>
