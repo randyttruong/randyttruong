@@ -8,9 +8,9 @@
 <p></p>
 
 <ul>
-<!--   <li>I'm a fourth year Computer Science student @ Northwestern University, pursuing my Bachelor's and my Master's 😼</li>
-  <li>I've been a SWE intern at Uline, and I have previously worked as a researcher for Northwestern University 😼 and Penn State University 🔵 </li> -->
-  <li>i'm a Northwestern University undergrad interested in security and formal methods :) </li>
+<!--   <li>Computer Science alum  @ Northwestern University 😼</li>
+  <li>formerly at Uline, LIST Lab (Northwestern University), and PIKE Lab (Penn State University) 🔵 </li> -->
+  <li>interested in security and formal methods :) </li>
   <li>my primary languages are C++, Python, Java, JavaScript/TypeScript, and Go </li>
 </ul>
 
