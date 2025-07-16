@@ -10,7 +10,7 @@
 <ul>
 <!--   <li>Computer Science alum  @ Northwestern University 😼</li>
   <li>formerly at Uline, LIST Lab (Northwestern University), and PIKE Lab (Penn State University) 🔵 </li> -->
-  <li>interested in security and formal methods</li>
+  <li>interested in security, formal methods, and reinforcement learning </li>
 <!--   <li>my primary languages are C++, Python, Java, JavaScript/TypeScript, and Go </li> -->
 </ul>
 
