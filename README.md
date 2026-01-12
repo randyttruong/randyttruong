@@ -8,7 +8,7 @@
 <p></p>
 
 <ul>
-  <li>Computer Science Alum  @ Northwestern University</li>
+  <li> computer science alum @ northwestern university</li>
   <!-- <li>formerly at Uline, LIST Lab (Northwestern University), and PIKE Lab (Penn State University) 🔵 </li> -->
   <li>interested in high-performance computing, databases, and game engines </li>
 <!--   <li>my primary languages are C++, Python, Java, JavaScript/TypeScript, and Go </li> -->
